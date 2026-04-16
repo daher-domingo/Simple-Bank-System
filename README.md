@@ -42,11 +42,11 @@ If you want to run this project locally:
 
 1. Install XAMPP or WAMP  
 2. Copy the project folder to:  
-   `htdocs/simple-bank-system`  
+   `htdocs/Simple_Bank_System`  
 3. Import the database file into phpMyAdmin  
 4. Start Apache and MySQL  
 5. Open:  
-   `http://localhost/simple-bank-system`
+   `http://localhost/Simple_Bank_System`
 
 ---
 
