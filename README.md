@@ -5,7 +5,7 @@ A web-based banking system built with PHP and MySQL that allows users to manage 
 ---
 
 ## 🌐 Live Demo
-👉 https://simplebanksystem.great-site.net/index.php
+👉 https://simple-bank-system.great-site.net/index.php
 
 ---
 
